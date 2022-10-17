@@ -1,16 +1,27 @@
-### Hi there 👋
+# Arzuffi Dario (web2) - Fendross (web3)
 
-<!--
-**Fendross/Fendross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+```js
+let aboutMe, education, skills; // Usually not a semicolon lover
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## aboutMe = 
+
+*Hello github!* 😄 My name is Arzuffi Dario, an italian aspiring smart contract developer. Born in 1998, I always loved the idea of learning how to design and code programs that can solve people's problems. I got close and started playing with cryptocurrencies and web3 at the start of 2022, and I recently deep dove into **solidity** and **smart contract development**, which I absolutely fell in love with.
+
+---
+
+## education = 
+
+```js
+// WIP
+```
+
+---
+
+## skills = 
+
+```js
+// WIP
+```
