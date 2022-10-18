@@ -38,7 +38,7 @@ let aboutMe, education, skills, projects; // Usually not a semicolon lover
 -  React - Intermediate
 -  ethers.js - Intermediate
 
-**Misc**:
+**Tools**:
 - Git / Github - Intermediate
 - Zsh - Intermediate
 - Notion - Advanced
