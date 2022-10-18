@@ -3,7 +3,7 @@
 ---
 
 ```js
-let aboutMe, education, skills; // Usually not a semicolon lover
+let aboutMe, education, skills, projects; // Usually not a semicolon lover
 ```
 
 ## aboutMe = 
@@ -14,14 +14,44 @@ let aboutMe, education, skills; // Usually not a semicolon lover
 
 ## education = 
 
+1. At the end of Feb 2022, I received my Bachelor Degree in Chemistry at UNIMI (Università degli Studi di Milano), with a final grade of 95/110.
+2. From this point on, I started learning web3, finance and later during the year programming by myself, handpicking YouTube and MOOC (Massive Open Online Courses) courses and appreciating the open source opportunities.
 ```js
-// WIP
+// TODO: add a YT playlist with all the courses
 ```
 
 ---
 
 ## skills = 
 
+**Programming Languages**:
+- Solidity - Advanced
+- JavaScript - Intermediate/Advanced
+- HTML/CSS - Intermediate
+- Python - Beginner
+- Rust - Beginner
+
+**Frameworks / Libraries**:
+-  Hardhat - Advanced
+-  Foundry - Beginner
+-  NextJS - Intermediate
+-  React - Intermediate
+-  ethers.js - Intermediate
+
+**Misc**:
+- Git / Github - Intermediate
+- Zsh - Intermediate
+- Notion - Advanced
+
+---
+
+## projects = 
+
 ```js
-// WIP
+await loadProjects() // WIP
 ```
+
+
+
+
+
