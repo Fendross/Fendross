@@ -1,5 +1,13 @@
-# Fendross
+# About Me 💻
 
-My name is Arzuffi Dario, an italian aspiring smart contract developer. Born in 1998, I always loved the idea of learning how to design and code programs that can solve people's problems. I got close and started playing with cryptocurrencies and web3 at the start of 2022, and I recently deep dove into **Solidity** and **Smart Contract Development**, which I absolutely fell in love with.
+My name is Arzuffi Dario, an italian aspiring smart contract developer. Born in 1998, I always loved the idea of learning how to design and code programs that can solve people's problems. I got interested in the blockchain technology at the start of 2022, and later during the year I deep dove into **Solidity** and **Smart Contract Development**. After that, I looked more deeply into **Software** **Development**, which I fell in love with.
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fendross)](https://github.com/anuraghazra/github-readme-stats)
+I'm currently studying and developing my personal projects, which will be soon published. I hope you will enjoy them ❤️
+
+---
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fendross&show_icons=true&theme=transparent&hide_border=true&title_color=bfee90&text_color=90ee90&icon_color=90eebf&include_all_commits=true&)](https://github.com/anuraghazra/github-readme-stats)
+
+[Stats Credits](https://github.com/anuraghazra/github-readme-stats)
+
+
