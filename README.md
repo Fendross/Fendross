@@ -6,7 +6,7 @@ I'm currently studying and developing my personal projects, which will be soon p
 
 ---
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fendross&show_icons=true&theme=transparent&hide_border=true&title_color=bfee90&text_color=90ee90&icon_color=90eebf)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fendross&show_icons=true&theme=transparent&title_color=bfee90&text_color=90ee90&icon_color=90eebf)](https://github.com/anuraghazra/github-readme-stats)
 
 [Stats Credits](https://github.com/anuraghazra/github-readme-stats)
 
