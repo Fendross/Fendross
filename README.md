@@ -1,8 +1,9 @@
 # About Me 💻
 
-My name is Arzuffi Dario, an italian aspiring software engineer. Born in 1998, I always loved the idea of learning how to design and code programs that can solve people's problems. I got interested in the blockchain technology at the start of 2022, and later during the year I deep dove into **Solidity** and **Smart Contract Development**. After that, I looked more deeply into **Software** **Development**, which I fell in love with.
+My name is Arzuffi Dario, I'm 24 and I'm a Junior Software Developer. Born in 1998, I got my Bachelor Degree in Chemistry in Feb 2022.
+I always loved the idea of learning how to design and code programs that can solve people's problems. I got interested in the blockchain technology at the start of 2022, and later during the year I deep dove into it by playing around with Solidity and Smart Contract development. After that, seeing that there were too many things I wasn't grasping so well, I reset my path and started learning the basics of Computer Science, assembling a study plan using open source courses with the goal of changing my career definitely.
 
-I'm currently studying and developing my personal projects, which will be soon published. I hope you will enjoy them ❤️
+I'm currently working, and when I have time I study and develop my personal projects. I hope you will enjoy them!
 
 ---
 
