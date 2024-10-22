@@ -1,6 +1,6 @@
 # About Me 🗓️
 
-My name is Arzuffi Dario and I'm a Junior Software Developer. 
+My name is Arzuffi Dario and I'm a Junior Software Engineer. 
 Born in 1998, I got my Bachelor Degree in Chemistry in February 2022.
 
 I always loved the idea of learning how to design and code programs that can solve people's problems. I got interested in the blockchain technology at the start of 2022, and later during the year I deep dove into it by playing around with Solidity and smart contract development.
